@@ -5,7 +5,7 @@ Core: Data Structures - Binary Search Tree
 
 Topic: Insertion in a Binary Search Tree using Recursion 
 
-Complexity : o(n)
+Complexity : O(n)
 
 """
 class Node:
