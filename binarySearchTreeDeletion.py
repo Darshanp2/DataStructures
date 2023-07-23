@@ -7,7 +7,7 @@ Topic: Deletion in a Binary Search Tree using Recursion
 
 Complexity: O(logn)
 
-Recurive method
+Recursive method
 
 """
 class newNode:
