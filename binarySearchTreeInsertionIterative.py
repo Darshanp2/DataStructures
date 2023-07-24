@@ -45,8 +45,8 @@ def insert(root,key):
     
 if __name__ == "__main__":
     root = newNode(1)
-    root = insert(root, 2)
-    root = insert(root, 3)
-    root = insert(root, 4)
+    insert(root, 2)
+    insert(root, 3)
+    insert(root, 4)
     print(root)
     inorder(root)

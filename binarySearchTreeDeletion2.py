@@ -49,6 +49,7 @@ def deleteNode(root, key):
     
     #when the root is a leaf node
     if root.left is None and root.right is None:
+        root = None
         return root
     
     #When the root has one child
@@ -62,6 +63,7 @@ def deleteNode(root, key):
         root = None
         return temp
 
+    #When the root has two children
     succParent = root
     succ = root.right
 
