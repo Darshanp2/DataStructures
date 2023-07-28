@@ -2,7 +2,7 @@
 
 Bubble Sort
 
-Time Complexity : O(N2) N-Square
+Time Complexity : O(N^2)
 
 """
 
