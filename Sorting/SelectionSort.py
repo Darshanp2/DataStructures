@@ -2,7 +2,7 @@
 
 Selection Sort
 
-Time Complexity: O(N2) (N-Square) Using two loops
+Time Complexity: O(N^2)
 
 """
 
